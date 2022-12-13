@@ -20,7 +20,7 @@ function App() {
             <NavBar />
             <AppHeader title="MetroNails Redesign" subtitle="Responsive Redesign" />
             <Responsive />
-            <a href='https://sleepycow228.github.io/csci-1300-portfolio' className="HomeButton">
+            <a href='https://sleepycow228.github.io/csci1300-portfolio' className="HomeButton">
               Return To Home</a>
           </>
         } />
